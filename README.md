@@ -1,7 +1,7 @@
 # Vue
 自学前端也有一段时间了,三大主流框架还只接触了Vue.js。
 
-还有找点实战小项目练习,目前完成的项目有：
+有找点实战小项目来练习,目前完成的项目有：
 
 [pizza点餐系统](https://github.com/kawaii7/Pizza)
 
@@ -11,7 +11,7 @@
 
 ![enter image description here](https://github.com/kawaii7/Vue/blob/master/images/%E7%BE%8E%E5%9B%A2/meituan.gif)
 
-下一个做：饿了吗吧..
+想下一个做：饿了吗吧..
 
 自己整理的笔记:
 
